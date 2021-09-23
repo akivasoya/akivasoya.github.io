@@ -1,0 +1,19 @@
+[19-Apr-2017 13:40:20 Etc/GMT] PHP Notice:  Undefined variable: head in /home/ekaksikc/public_html/dehydrated-products/con_sendmail.php on line 9
+[19-Apr-2017 13:41:31 Etc/GMT] PHP Notice:  Undefined variable: head in /home/ekaksikc/public_html/dehydrated-products/con_sendmail.php on line 9
+[16-Nov-2017 11:10:39 Etc/GMT] PHP Notice:  Undefined variable: head in /home/ekaksikc/public_html/dehydrated-products/con_sendmail.php on line 9
+[01-Jan-2018 11:04:57 Etc/GMT] PHP Notice:  Undefined variable: head in /home/ekaksikc/public_html/dehydrated-products/Newsletter.php on line 6
+[05-Feb-2018 18:00:13 Etc/GMT] PHP Notice:  Undefined variable: head in /home/ekaksikc/public_html/dehydrated-products/Newsletter.php on line 6
+[28-Mar-2018 07:43:24 Etc/GMT] PHP Notice:  Undefined variable: head in /home/ekaksikc/public_html/dehydrated-products/Newsletter.php on line 6
+[01-May-2018 18:04:49 Etc/GMT] PHP Notice:  Undefined variable: head in /home/ekaksikc/public_html/dehydrated-products/con_sendmail.php on line 9
+[24-May-2018 08:01:49 Etc/GMT] PHP Notice:  Undefined variable: head in /home/ekaksikc/public_html/dehydrated-products/con_sendmail.php on line 9
+[11-Feb-2019 18:40:28 Etc/GMT] PHP Notice:  Undefined variable: head in /home/ekaksikc/public_html/dehydrated-products/con_sendmail.php on line 9
+[10-Mar-2019 11:16:27 Etc/GMT] PHP Notice:  Undefined variable: head in /home/ekaksikc/public_html/dehydrated-products/Newsletter.php on line 6
+[10-Mar-2019 11:19:03 Etc/GMT] PHP Notice:  Undefined variable: head in /home/ekaksikc/public_html/dehydrated-products/con_sendmail.php on line 9
+[11-Dec-2019 15:33:53 Etc/GMT] PHP Notice:  Undefined variable: head in /home/ekaksikc/public_html/dehydrated-products/con_sendmail.php on line 9
+[03-Feb-2020 02:01:11 Etc/GMT] PHP Notice:  Undefined variable: head in /home/ekaksikc/public_html/dehydrated-products/con_sendmail.php on line 9
+[14-Mar-2020 10:43:08 Etc/GMT] PHP Notice:  Undefined variable: head in /home/ekaksikc/public_html/dehydrated-products/con_sendmail.php on line 9
+[24-Apr-2020 07:24:05 Etc/GMT] PHP Notice:  Undefined variable: head in /home/ekaksikc/public_html/dehydrated-products/con_sendmail.php on line 9
+[28-Oct-2020 11:55:03 UTC] PHP Notice:  Undefined variable: head in /home/epdltevrfvvc/public_html/dehydrated-products/con_sendmail.php on line 9
+[28-Oct-2020 11:55:03 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/epdltevrfvvc/public_html/dehydrated-products/con_sendmail.php on line 9
+[12-Feb-2021 14:02:33 UTC] PHP Notice:  Undefined variable: head in /home/epdltevrfvvc/public_html/dehydrated-products/con_sendmail.php on line 9
+[12-Feb-2021 14:02:33 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/epdltevrfvvc/public_html/dehydrated-products/con_sendmail.php on line 9
