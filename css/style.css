@@ -194,7 +194,7 @@ nav.cl-effect-13 a {
 /*-- //header --*/
 /*-- banner --*/
 .banner{
-	background:url(../images/banner.jpg) no-repeat 0px 0px;
+	background:url(../images/Banner-1.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -237,10 +237,11 @@ nav.cl-effect-13 a {
 	margin:0 auto;
 }
 .banner-info1-grid h3{
-	font-size: 2em;
+    font-size: 2em;
     color: #F88928;
     margin: 1em 0 .5em;
     text-transform: capitalize;
+    
 }
 .banner-info1-grid p{
 	font-size:14px;
@@ -248,6 +249,7 @@ nav.cl-effect-13 a {
 	line-height:1.8em;
 	margin:0 auto;
 	width:80%;
+        background-color: #077370;
 }
 /*--flexisel--*/
 #flexiselDemo1 {
